@@ -64,5 +64,9 @@ Git - это консольная утилита для отслеживания
 
        Git branch <name>
 2. git checkout name
+
+Для того чтобы перейти с одной ветки на другую нужно воспользовать следующей командой и добавить имя ветки 
+
+    git checkout <name>
 3. git merge name 
 4. git branch -d 

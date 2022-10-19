@@ -63,7 +63,6 @@ Git - это консольная утилита для отслеживания
 2. git checkout name
 3. git merge name 
 4. git branch -d 
-
 Когда переместили текст с одной ветки в другую, ненужную ветку можно удалить, воспользовавшись командой:
 
-    git branch -d <name>
+       git branch -d <name>
